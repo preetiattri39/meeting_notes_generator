@@ -1,6 +1,6 @@
-# WorkPulse AI Meeting Notes Generator
+# AI Meeting Notes Generator
 
-WorkPulse is an AI-powered Laravel 12 application for turning meeting audio and video into structured meeting intelligence. It supports transcription, summarization, action item extraction, decision tracking, speaker highlights, exports, team sharing, audit logs, and realtime processing updates.
+AI Meeting Notes Generator is an AI-powered Laravel 12 application for turning meeting audio and video into structured meeting intelligence. It supports transcription, summarization, action item extraction, decision tracking, speaker highlights, exports, team sharing, audit logs, and realtime processing updates.
 
 ## Stack
 
